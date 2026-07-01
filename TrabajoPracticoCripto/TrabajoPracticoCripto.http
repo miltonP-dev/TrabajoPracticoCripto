@@ -1,0 +1,6 @@
+@TrabajoPracticoCripto_HostAddress = http://localhost:5277
+
+GET {{TrabajoPracticoCripto_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
